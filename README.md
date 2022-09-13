@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pabgaru
-- 👀 I’m interested in: artificial vision
+- 👀 I’m interested in: Artificial vision
 - 🌱 I’m currently learning: 3d Geometry
-- 💞️ I’m looking to collaborate on: Cool computed vision things
+- 💞️ I’m looking to collaborate on: Cool any type things
 - 📫 How to reach me: here?
 
 <!---
