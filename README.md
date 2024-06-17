@@ -2,9 +2,8 @@
 
 I'm Pablo García Ruiz, a researcher in the realm of Computer Vision, currently pursuing my Ph.D. in Advanced Computing. I specialize in areas such as artificial vision, machine learning, and app development, with proficiency in OpenCV, C++, Python, and Flutter. I'm a knowledge-seeker and self-disciplined enthusiast who is highly fascinated by the expansive field of computer science.
 
-
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
