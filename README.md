@@ -22,6 +22,6 @@ My passion lies in staying up-to-date with the latest advancements and innovatio
 
 Feel free to reach out to me for collaborations, project development or just for a chat about AI and computer vision! 
 
-## Free-to-use Workshops
+## Free-to-use Workshops 📒
 
 Please check [my workshops](https://github.com/pabgaruWorkshops) in case you want to make use of them for learning purposes!
