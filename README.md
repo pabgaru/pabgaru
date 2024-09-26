@@ -21,3 +21,7 @@ My passion lies in staying up-to-date with the latest advancements and innovatio
 - Engaging in open-source initiatives and contributing to AI-powered projects that promote accessibility, inclusivity, and the ethical use of technology in society.
 
 Feel free to reach out to me for collaborations, project development or just for a chat about AI and computer vision! 
+
+## Free-to-use Workshops
+
+Please check [my workshops](https://github.com/pabgaruWorkshops) in case you want to make use of them for learning purposes!
