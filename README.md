@@ -27,6 +27,6 @@ Feel free to reach out to me for collaborations, project development or just for
 Please check [my workshops](https://github.com/pabgaruWorkshops) in case you want to make use of them for learning purposes!
 
 
-## Project Tutorials
+## Project Tutorials 🎥
 
 Please check [my YouTube channel](https://www.youtube.com/@pabgaru) in case you want to learn about my open source projects with the tutorials i prepared!
