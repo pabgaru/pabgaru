@@ -1,3 +1,5 @@
+![Front Image](frontImage.png)
+
 # Hello, World! 👋🏼
 
 I'm Pablo García Ruiz, a researcher in the realm of Computer Vision, currently pursuing my Ph.D. in Advanced Computing. I specialize in areas such as artificial vision, machine learning, and app development, with proficiency in OpenCV, C++, Python, and Flutter. I'm a knowledge-seeker and self-disciplined enthusiast who is highly fascinated by the expansive field of computer science.
