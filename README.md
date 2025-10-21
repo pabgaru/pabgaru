@@ -11,6 +11,7 @@ I'm Pablo García Ruiz, a researcher in the realm of Computer Vision, currently 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 
 ## About Me 🚀
 
